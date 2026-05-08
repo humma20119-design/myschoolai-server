@@ -1,0 +1,9 @@
+model/
+dist/
+build/
+*.exe
+*.bin
+*.pt
+*.safetensors
+pycache/
+checkpoint-*/

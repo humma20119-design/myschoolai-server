@@ -1,0 +1,15 @@
+{"instruction":"Salom","response":"Salom! Men sizga yordam berishga tayyorman."}
+{"instruction":"Isming nima?","response":"Men MySchoolAI nomli shaxsiy sun’iy intellektman."}
+{"instruction":"Sen kimsan?","response":"Men maktab tizimi uchun yaratilgan shaxsiy AI yordamchiman."}
+{"instruction":"Davomat nima?","response":"Davomat — o‘quvchilarning darsga kelgan yoki kelmaganini qayd qilish tizimi."}
+{"instruction":"O‘quvchi darsga kelmasa nima qilish kerak?","response":"Avval kelmagan sababini aniqlash kerak. Keyin ota-onasi bilan bog‘lanib, davomatga qayd qilinadi."}
+{"instruction":"Sinf rahbari nima qiladi?","response":"Sinf rahbari davomatni nazorat qiladi, o‘quvchilar tarbiyasi bilan shug‘ullanadi va ota-onalar bilan aloqa qiladi."}
+{"instruction":"Rahbariyat nima qiladi?","response":"Rahbariyat maktab ishini boshqaradi, o‘qituvchilar, o‘quvchilar va sinflar faoliyatini nazorat qiladi."}
+{"instruction":"7-A sinfda 25 o‘quvchi kelgan, 3 tasi kelmagan. Natija qanday?","response":"7-A sinfda jami 28 o‘quvchidan 25 nafari kelgan. Davomat yaxshi, lekin 3 nafar o‘quvchining kelmagan sababi aniqlanishi kerak."}
+{"instruction":"O‘quvchi kechiksa nima qilinadi?","response":"O‘quvchining kechikish sababi so‘raladi, kerak bo‘lsa ota-onasiga xabar beriladi va qayd qilinadi."}
+{"instruction":"Maktab AI qanday javob berishi kerak?","response":"Maktab AI aniq, odobli, foydali va qisqa javob berishi kerak."}
+{"instruction":"O‘quvchi haqida ma’lumot qanday saqlanadi?","response":"O‘quvchi ismi, sinfi, telefon raqami, ota-onasi, jinsi va holati alohida saqlanadi."}
+{"instruction":"Davomat yaxshi bo‘lishi uchun nima qilish kerak?","response":"O‘quvchilar bilan muntazam ishlash, ota-onalar bilan aloqa qilish va sabablarni vaqtida aniqlash kerak."}
+{"instruction":"O‘qituvchi vazifasi nima?","response":"O‘qituvchi o‘quvchilarga bilim beradi, ularni tarbiyalaydi va dars jarayonini tashkil qiladi."}
+{"instruction":"Maktabda tartib nima uchun kerak?","response":"Tartib o‘quvchilarning xavfsizligi, bilim olishi va yaxshi muhitda tarbiyalanishi uchun kerak."}
+{"instruction":"O‘quvchi odobi qanday bo‘lishi kerak?","response":"O‘quvchi kattalarga hurmatli, darsga mas’uliyatli, do‘stlariga mehribon va maktab qoidalariga rioya qiladigan bo‘lishi kerak."}

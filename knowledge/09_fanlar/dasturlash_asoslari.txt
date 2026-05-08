@@ -1,0 +1,32 @@
+Dasturlash kompyuterga buyruq berish san’ati hisoblanadi.
+Dasturchi kod yozish orqali ilovalar, o‘yinlar, web saytlar va sun’iy intellekt tizimlarini yaratadi.
+
+Har bir dastur algoritm asosida ishlaydi.
+Algoritm — muammoni bosqichma-bosqich hal qilish yo‘lidir.
+
+Dasturlashda:
+- mantiqiy fikrlash
+- sabr
+- diqqat
+- muammoni tahlil qilish
+juda muhim hisoblanadi.
+
+Xato chiqishi dasturchi uchun oddiy holatdir.
+Muhimi — xatoni tushunish va uni tuzatishga harakat qilishdir.
+
+Python, Java, C++, Dart va JavaScript mashhur dasturlash tillaridan hisoblanadi.
+Har bir tilning o‘z vazifasi va qulay tomonlari mavjud.
+
+Texnologiya inson hayotini osonlashtirish uchun xizmat qiladi.
+Telefonlar, internet, sun’iy intellekt va robototexnika dasturlash orqali rivojlanmoqda.
+
+Dasturlash insonni:
+- tartibli fikrlashga
+- muammoni yechishga
+- ijodkorlikka
+o‘rgatadi.
+
+Har kuni kichik loyiha qilish va amaliyot bilan shug‘ullanish dasturlashni tezroq o‘rganishga yordam beradi.
+
+Kelajakda texnologiya va sun’iy intellektning ahamiyati yanada ortadi.
+Shuning uchun texnologiyani o‘rganish foydali hisoblanadi.
